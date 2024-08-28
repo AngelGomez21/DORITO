@@ -8,7 +8,7 @@ const datosArreglo = () => {
             console.log(`${i}=${valores}`);
         }
         index++;
-    }
+    }  
 }
 
 datosArreglo();
