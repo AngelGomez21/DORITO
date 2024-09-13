@@ -45,7 +45,6 @@ class Empleado {
     return this._horasExtra;
   }
 
-  // Setters
   set nombre(value) {
     this._nombre = value;
   }
